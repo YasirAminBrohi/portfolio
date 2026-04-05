@@ -1,16 +1,55 @@
-# React + Vite
+# Yasir Amin Brohi - Portfolio 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive personal portfolio built with **React**, **Vite**, and **Tailwind CSS**. This site showcases my journey as a BSCS student at FAST Karachi, my technical skills, and the projects I'm building.
 
-Currently, two official plugins are available:
+**Live Demo:** [Coming Soon]
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🛠️ Tech Stack
 
-## React Compiler
+*   **Framework:** React (Vite)
+*   **Styling:** Tailwind CSS
+*   **Animations:** Framer Motion
+*   **Icons:** React Icons (Fa, Si)
+*   **Deployment:** Localhost / GitHub Pages
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Features
 
-## Expanding the ESLint configuration
+*   **Hero Section:** Personal introduction and social links.
+*   **About Me:** A glimpse into my background and current focus.
+*   **Technical Arsenal:** Visual representation of my core skills (C++, Python, Kotlin, etc.).
+*   **Featured Projects:** Highlights of my work, including **Sahiya v1** and **wacli_window**.
+*   **Responsive Design:** Looks great on mobile and desktop.
+*   **Dark Mode:** A sleek, developer-friendly dark theme.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🏃‍♂️ Running Locally
+
+1.  **Clone the repository:**
+    ```bash
+    git clone https://github.com/YasirAminBrohi/portfolio.git
+    cd portfolio
+    ```
+
+2.  **Install dependencies:**
+    ```bash
+    npm install
+    ```
+
+3.  **Start the development server:**
+    ```bash
+    npm run dev
+    ```
+
+4.  **Open your browser:**
+    Visit `http://localhost:5173` (or the port shown in your terminal).
+
+## 🚀 Deployment
+
+To deploy this to GitHub Pages or Vercel, simply push your changes to your repository and follow the platform's specific deployment steps for a Vite/React app.
+
+## 📬 Contact
+
+*   **Email:** k250796@nu.edu.pk
+*   **GitHub:** [YasirAminBrohi](https://github.com/YasirAminBrohi)
+
+---
+*Built with ❤️ by Yasir Amin Brohi & Sahiya AI*
